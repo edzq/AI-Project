@@ -1,5 +1,18 @@
 # AI-Project
 
+# To-Do
+
+Train the models:
+
+**Transfer learning**
+- Sci-BERT(Qi finished)
+- BERT
+
+**Popular sequence labeling models**
+- CRF
+- BiLSTM
+
+
 # 1.Object
 
 Extract the dataset name of literatures.
@@ -41,5 +54,6 @@ BERT-CRF
 # 4.Computing environment
 
 Temple HPC:https://www.hpc.temple.edu/
+
 Suggest you to apply the access.
 
