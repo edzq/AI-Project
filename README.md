@@ -82,6 +82,12 @@ ssh -L 8080:localhost:8080 tuoxxxx@dgx-1.hpc.temple.edu
 
 # 5. Experiment
 
+## Experiment log
+
+
+
+## Evluation methods:
+
 https://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/
 
 
