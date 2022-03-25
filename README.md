@@ -7,11 +7,12 @@ Train the models:
 **Transfer learning**
 - Sci-BERT(Qi finished)
 - BERT
+- BERT-CRF
 
 **Popular sequence labeling models**
 - CRF
 - BiLSTM
-
+- BiLSTM-CRF
 
 # 1.Object
 
@@ -56,4 +57,32 @@ BERT-CRF
 Temple HPC:https://www.hpc.temple.edu/
 
 Suggest you to apply the access.
+
+## How to use the romte jupyter notebook by HPC
+
+See https://docs.anaconda.com/anaconda/user-guide/tasks/remote-jupyter-notebook/
+
+1.connect the ssh of hpc
+
+ssh xxxx@dgx-1.hpc.temple.edu
+
+2.activate the conda environment
+
+source ~/.bashrc
+
+3.run jupyternote book without browser
+
+jupyter notebook --no-browser --port=8080
+
+4.local terminal run ssh
+
+ssh -L 8080:localhost:8080 tuoxxxx@dgx-1.hpc.temple.edu
+
+5.open chrome, input the adress!
+
+# 5. Experiment
+
+https://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/
+
+
 
