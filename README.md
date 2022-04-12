@@ -48,14 +48,19 @@ Paper: https://www.mdpi.com/2306-5729/6/8/84
 The code: https://github.com/xjaeh/ner_dataset_recognition
 
 So the model we at least plan to run(all of them can be found in the github in the above link):
-CRF
+CRF（Qi finished ）
 Sci-BERT(Qi already finished the training)
-BERT
-BiLSTM
-BiLSTM-CRF
+BERT（Qi finished ）
+BiLSTM（Qi finished ）
 
 And then we would like to try the models:
 BERT-CRF
+BiLSTM-CRF
+
+## PyTorch code
+linke: https://github.com/allanj/pytorch_neural_crf
+
+
 
 
 # 4.Computing environment
@@ -95,6 +100,9 @@ ssh -L 8080:localhost:8080 tuoxxxx@dgx-1.hpc.temple.edu
 ## Evluation methods:
 
 https://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/
+
+
+
 
 
 
