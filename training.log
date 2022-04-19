@@ -1,0 +1,39 @@
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+ 20%|▏| 1/5 [38:13<2:32:55, 2293.86s/epoch, loss=0.0132, accuracy=0.996, precision=0.993, recall=0.996, val_loss=0.0212, val_accur
+Epoch 1: saving model to ./checkpoints/BiLSTM_word2vec_3001.96batch/s, loss=0.0132, accuracy=0.996, precision=0.993, recall=0.996]
+100%|█████████████████████████| 4.58k/4.58k [38:16<00:00, 2.00batch/s, loss=0.0132, accuracy=0.996, precision=0.993, recall=0.996]
+ 40%|▍| 2/5 [1:15:20<1:52:42, 2254.04s/epoch, loss=0.00716, accuracy=0.998, precision=0.995, recall=0.998, val_loss=0.0205, val_ac
+Epoch 2: saving model to ./checkpoints/BiLSTM_word2vec_300.07batch/s, loss=0.00716, accuracy=0.998, precision=0.995, recall=0.998]
+100%|████████████████████████| 4.58k/4.58k [37:06<00:00, 2.06batch/s, loss=0.00716, accuracy=0.998, precision=0.995, recall=0.998]
+ 60%|▌| 3/5 [1:52:28<1:14:44, 2242.26s/epoch, loss=0.00574, accuracy=0.998, precision=0.995, recall=0.998, val_loss=0.025, val_acc
+Epoch 3: saving model to ./checkpoints/BiLSTM_word2vec_300.04batch/s, loss=0.00574, accuracy=0.998, precision=0.995, recall=0.998]
+100%|████████████████████████| 4.58k/4.58k [37:08<00:00, 2.06batch/s, loss=0.00574, accuracy=0.998, precision=0.995, recall=0.998]
+ 80%|▊| 4/5 [2:30:25<37:36, 2256.09s/epoch, loss=0.00454, accuracy=0.998, precision=0.995, recall=0.998, val_loss=0.0258, val_accu
+Epoch 4: saving model to ./checkpoints/BiLSTM_word2vec_300.96batch/s, loss=0.00454, accuracy=0.998, precision=0.995, recall=0.998]
+100%|████████████████████████| 4.58k/4.58k [37:57<00:00, 2.01batch/s, loss=0.00454, accuracy=0.998, precision=0.995, recall=0.998]
+100%|█| 5/5 [3:07:40<00:00, 2248.49s/epoch, loss=0.00363, accuracy=0.999, precision=0.996, recall=0.999, val_loss=0.0314, val_accu
+Epoch 5: saving model to ./checkpoints/BiLSTM_word2vec_300.05batch/s, loss=0.00363, accuracy=0.999, precision=0.996, recall=0.999]
+100%|████████████████████████| 4.58k/4.58k [37:14<00:00, 2.05batch/s, loss=0.00363, accuracy=0.999, precision=0.996, recall=0.999]
+100%|█| 5/5 [3:07:42<00:00, 2252.52s/epoch, loss=0.00363, accuracy=0.999, precision=0.996, recall=0.999, val_loss=0.0314, val_accu
+
+
+
+Training with 100000 samples
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+ 20%|▏| 1/5 [25:34<1:42:19, 1534.94s/epoch, loss=0.0147, accuracy=0.995, precision=0.993, recall=0.995, val_loss=0.0227, val_accur
+Epoch 1: saving model to ./checkpoints/BiLSTM_word2vec_z1 2.06batch/s, loss=0.0147, accuracy=0.995, precision=0.993, recall=0.995]
+100%|█████████████████████████| 3.12k/3.12k [25:37<00:00, 2.03batch/s, loss=0.0147, accuracy=0.995, precision=0.993, recall=0.995]
+ 40%|▍| 2/5 [51:04<1:16:36, 1532.03s/epoch, loss=0.0072, accuracy=0.998, precision=0.995, recall=0.998, val_loss=0.0217, val_accur
+Epoch 2: saving model to ./checkpoints/BiLSTM_word2vec_z1 2.07batch/s, loss=0.0072, accuracy=0.998, precision=0.995, recall=0.998]
+100%|█████████████████████████| 3.12k/3.12k [25:29<00:00, 2.04batch/s, loss=0.0072, accuracy=0.998, precision=0.995, recall=0.998]
+ 60%|▌| 3/5 [1:16:25<50:53, 1526.61s/epoch, loss=0.00573, accuracy=0.998, precision=0.995, recall=0.998, val_loss=0.0248, val_accu
+Epoch 3: saving model to ./checkpoints/BiLSTM_word2vec_z12.08batch/s, loss=0.00573, accuracy=0.998, precision=0.995, recall=0.998]
+100%|████████████████████████| 3.12k/3.12k [25:20<00:00, 2.06batch/s, loss=0.00573, accuracy=0.998, precision=0.995, recall=0.998]
+ 80%|▊| 4/5 [1:42:05<25:32, 1532.04s/epoch, loss=0.00438, accuracy=0.998, precision=0.995, recall=0.998, val_loss=0.0282, val_accu
+Epoch 4: saving model to ./checkpoints/BiLSTM_word2vec_z12.06batch/s, loss=0.00438, accuracy=0.998, precision=0.995, recall=0.998]
+100%|████████████████████████| 3.12k/3.12k [25:40<00:00, 2.03batch/s, loss=0.00438, accuracy=0.998, precision=0.995, recall=0.998]
+100%|█| 5/5 [2:07:42<00:00, 1533.88s/epoch, loss=0.00333, accuracy=0.999, precision=0.996, recall=0.999, val_loss=0.0323, val_accu
+Epoch 5: saving model to ./checkpoints/BiLSTM_word2vec_z12.04batch/s, loss=0.00333, accuracy=0.999, precision=0.996, recall=0.999]
+100%|████████████████████████| 3.12k/3.12k [25:36<00:00, 2.03batch/s, loss=0.00333, accuracy=0.999, precision=0.996, recall=0.999]
+100%|█| 5/5 [2:07:44<00:00, 1532.90s/epoch, loss=0.00333, accuracy=0.999, precision=0.996, recall=0.999, val_loss=0.0323, val_accu
+
