@@ -1,0 +1,90 @@
+
+Training size:10000
+              precision    recall  f1-score   support
+
+           _       0.79      0.50      0.61      9834
+
+   micro avg       0.79      0.50      0.61      9834
+   macro avg       0.79      0.50      0.61      9834
+weighted avg       0.79      0.50      0.61      9834
+
+
+Training size:15000
+              precision    recall  f1-score   support
+
+           _       0.84      0.47      0.60      9834
+
+   micro avg       0.84      0.47      0.60      9834
+   macro avg       0.84      0.47      0.60      9834
+weighted avg       0.84      0.47      0.60      9834
+
+
+Training size:20000
+              precision    recall  f1-score   support
+
+           _       0.84      0.48      0.61      9834
+
+   micro avg       0.84      0.48      0.61      9834
+   macro avg       0.84      0.48      0.61      9834
+weighted avg       0.84      0.48      0.61      9834
+
+
+Training size:25000
+              precision    recall  f1-score   support
+
+           _       0.82      0.48      0.61      9834
+
+   micro avg       0.82      0.48      0.61      9834
+   macro avg       0.82      0.48      0.61      9834
+weighted avg       0.82      0.48      0.61      9834
+
+
+Training size:30000
+              precision    recall  f1-score   support
+
+           _       0.86      0.51      0.64      9834
+
+   micro avg       0.86      0.51      0.64      9834
+   macro avg       0.86      0.51      0.64      9834
+weighted avg       0.86      0.51      0.64      9834
+
+
+Training size:35000
+              precision    recall  f1-score   support
+
+           _       0.90      0.48      0.63      9834
+
+   micro avg       0.90      0.48      0.63      9834
+   macro avg       0.90      0.48      0.63      9834
+weighted avg       0.90      0.48      0.63      9834
+
+
+Training size:40000
+              precision    recall  f1-score   support
+
+           _       0.86      0.53      0.65      9834
+
+   micro avg       0.86      0.53      0.65      9834
+   macro avg       0.86      0.53      0.65      9834
+weighted avg       0.86      0.53      0.65      9834
+
+
+Training size:45000
+              precision    recall  f1-score   support
+
+           _       0.88      0.55      0.68      9834
+
+   micro avg       0.88      0.55      0.68      9834
+   macro avg       0.88      0.55      0.68      9834
+weighted avg       0.88      0.55      0.68      9834
+
+
+Training size:50000
+              precision    recall  f1-score   support
+
+           _       0.88      0.54      0.67      9834
+
+   micro avg       0.88      0.54      0.67      9834
+   macro avg       0.88      0.54      0.67      9834
+weighted avg       0.88      0.54      0.67      9834
+
